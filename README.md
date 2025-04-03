@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is Tomi. I just finished an online coding bootcamp, specializing in web development.
 <!--
 **tomislav-varga/tomislav-varga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
