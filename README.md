@@ -1,5 +1,13 @@
 ## Hi there 👋
-my name is Tomi. I just finished an online coding bootcamp, specializing in web development.
+
+I'm Tomi, a motivated and detail-oriented individual with a passion for coding and problem-solving. With a background in IT support, I've always been fascinated by the world of technology, and I've recently taken my skills to the next level.                                                                                                                                                                                                                                                                                                            
+This year, I completed an online coding bootcamp with a focus on web development and backend technologies. Throughout this journey, I gained hands-on experience with HTML, CSS,JavaScript, MongoDB, React, and Express. These tools have not only deepened my understanding of software development but also sparked a desire to build innovative solutions.          
+
+In addition to my technical skills, I bring over 5 years of experience in IT support, where I've honed my ability to analyze problems, prioritize tasks, and communicate effectively with stakeholders.                                                                                                                                                                                                                                                                                                                                              
+Currently, I'm expanding my skill set by learning Python and Go. My knowledge also includes Linux fundamentals, which enable me to navigate the command line with confidence.                                                                                                                                                                                                  
+I'm now seeking an entry-level position that will allow me to apply my skills in a real-world setting. If you're looking for a driven individual who's eager to learn and grow, let's  
+connect!
+
 <!--
 **tomislav-varga/tomislav-varga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
