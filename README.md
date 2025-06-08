@@ -11,59 +11,33 @@ I'm now seeking an entry-level position that will allow me to apply my skills in
 
 ---
 
-### 🖥️ Programming Languages
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /></td>
-    <td></td>
-  </tr>
-</table>
+### 🖥️ Programming Languages  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ---
 
-### ⚙️ Libraries & Frameworks
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /></td>
-    <td></td>
-  </tr>
-</table>
+### ⚙️ Libraries & Frameworks  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
 ---
 
-### 🗄️ Databases
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /></td>
-  </tr>
-</table>
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
-### 🐧 DevOps & Tools
+### 🐧 DevOps & Tools  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></td>
-  </tr>
-</table>
+
 <!--
 **tomislav-varga/tomislav-varga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
