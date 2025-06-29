@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-### About me  
 I'm Tomi, a motivated and detail-oriented individual with a passion for coding and problem-solving. With a background in IT support, I've always been fascinated by the world of technology, and I've recently taken my skills to the next level.
 
 This year, I completed an online coding bootcamp with a focus on web development and backend technologies. Throughout this journey, I gained hands-on experience with HTML, CSS, JavaScript, MongoDB, React, and Express. These tools have not only deepened my understanding of software development but also sparked a desire to build innovative solutions. As part of the final project, I collaborated closely with a team, gaining experience in working within a shared codebase and contributing to a common goal.
