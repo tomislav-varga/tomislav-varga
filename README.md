@@ -38,6 +38,14 @@ I'm now seeking an entry-level position that will allow me to apply my skills in
 
 ---
 
+### ☁️ Platforms  
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+---
+
 ### 🐧 DevOps & Tools  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
