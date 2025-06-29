@@ -16,9 +16,13 @@ I'm now seeking an entry-level position that will allow me to apply my skills in
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
+---
+
 ### 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
 
 ### ⚙️ Libraries & Frameworks  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
