@@ -6,6 +6,7 @@ This year, I completed an online coding bootcamp with a focus on web development
 
 In addition to my technical skills, I bring over 5 years of experience in IT support, where I've honed my ability to analyze problems, prioritize tasks, and communicate clearly with stakeholders.  
 Currently, I'm expanding my skill set by learning Python and Go. My knowledge also includes Linux fundamentals, which enable me to navigate the command line with confidence.  
+
 I'm now seeking an entry-level position that will allow me to apply my skills in a real-world setting. If you're looking for a driven individual who's eager to learn and grow — let's connect!
 
 ---
