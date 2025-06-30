@@ -16,7 +16,7 @@ Before diving into development, I spent over **5 years in IT support**, where I 
 
 Currently, I’m expanding my backend skills by learning **Python**, **Go**, and **Linux fundamentals** — all while working on personal projects and refining my portfolio.
 
-I'm now looking for an **entry-level position** or internship where I can contribute, learn, and grow as part of a passionate development team.
+I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate development team.
 
 ---
 
