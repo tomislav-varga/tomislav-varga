@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a motivated and detail-oriented **Junior Full Stack Web Developer** with a background in IT support and a strong passion for building useful, well-crafted digital products.
+I'm a motivated **Junior Full Stack Web Developer** with a background in IT support and a strong passion for building useful, well-crafted digital products.
 
 Earlier this year, I completed an **online coding bootcamp**, where I built web apps using modern technologies like **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**. During this time, I also collaborated on team projects and worked in shared codebases using Git and GitHub.
 
