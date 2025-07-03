@@ -14,7 +14,7 @@ Earlier this year, I completed an **online coding bootcamp**, where I built web 
 
 Before diving into development, I spent over **5 years in IT support**, where I learned how to troubleshoot under pressure, communicate clearly with non-technical users, and solve real-world problems.
 
-Currently, I’m expanding my backend skills by learning **Python**, **Go**, and **Linux fundamentals** — all while working on personal projects and refining my portfolio.
+Currently, I’m expanding my backend skills by learning **Python** and **Go** — all while working on personal projects and refining my portfolio.
 
 I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate development team.
 
