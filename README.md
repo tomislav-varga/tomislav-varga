@@ -69,9 +69,11 @@ Here are a few projects I’ve recently worked on:
 I'm actively looking for **junior dev roles**, **internships**, or **freelance gigs**.  
 Let’s chat if you're looking for a curious, committed developer who’s ready to contribute and grow.
 
-- 💌 [Email Me](mailto:your@email.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📅 [Book a Meeting](https://cal.com/tomislav.varga)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom-varga-73b656b9/)
+<!--
 - 🧠 [Portfolio Website](https://yourportfolio.com)
+-->
 
 ---
 
