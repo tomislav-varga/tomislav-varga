@@ -59,8 +59,10 @@ I'm now looking for an **entry-level position** where I can contribute, learn, a
 ### 💼 Projects  
 Here are a few projects I’ve recently worked on:
 
-- 🌿 [**mydailyimpact**](https://github.com/tomislav-varga/WS24-MyDailyImpact) — Argument-tracking web app with a CO₂/water impact calculator powered by an Express.js backend and a MongoDB database.- 💼 [**Company Website Template**](https://github.com/tomislav-varga/bayern-express) — Fully responsive Next.js landing page for small businesses.  
+- 🌿 [**mydailyimpact**](https://github.com/tomislav-varga/WS24-MyDailyImpact) — Argument-tracking web app with a CO₂/water impact calculator powered by an Express.js backend and a MongoDB database.
+- 💼 [**Company Website Template**](https://github.com/tomislav-varga/bayern-express) — Fully responsive Next.js landing page for small businesses.  
 - 📘 [**Full Stack Open Exercises**](https://github.com/tomislav-varga/fullstackopen-exercises) — Solutions for the [Full Stack Open](https://fullstackopen.com/) course covering React, Node.js, MongoDB, GraphQL, and TypeScript.
+
 ---
 
 ### 📫 Let's Connect
