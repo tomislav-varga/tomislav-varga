@@ -1,23 +1,21 @@
 <h1 align="center">Hi there, I'm Tomi 👋</h1>
 
 <p align="center">
-  👨‍💻 Junior Full Stack Web Developer · 🛠️ IT Support Veteran · 🌍 Based in Germany
+  👨‍💻 IT Support Specialist turned aspiring DevOps Engineer | Kubernetes & Cloud Enthusiast
 </p>
 
 ---
 
-### 🚀 About Me
+## 💡 About Me  
 
-I'm a motivated **Junior Full Stack Web Developer** with a background in IT support and a strong passion for building useful, well-crafted digital products.
+I’m an aspiring **Junior DevOps Engineer** with a strong foundation in IT support and full-stack web development.  
 
-I recently started an **internship at [Kubecraft](https://www.skool.com/kubecraft)**, where I'm gaining hands-on experience with **Kubernetes** and **Linux** in a collaborative environment.
+- 🎓 Earlier this year, I completed an **online coding bootcamp**, where I built web applications using **React, Node.js, MongoDB, and Tailwind CSS**.  
+- 🛠 I recently started an **internship at Kubecraft**, where I’m gaining hands-on experience with **Kubernetes, Linux, and cloud-native technologies** — all while continuing to work full-time in IT.  
+- 💼 With **3+ years in IT support**, I bring proven problem-solving skills, the ability to communicate clearly with both technical and non-technical users, and experience troubleshooting under pressure.  
+- 🚀 I’m now looking to transition into a **Junior DevOps role**, where I can contribute, learn, and grow as part of a passionate engineering team.  
 
-Earlier this year, I completed an **online coding bootcamp**, building web apps with technologies like **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.  
-Before diving into development, I spent over **4 years in IT support**, learning to troubleshoot under pressure, communicate clearly with non-technical users, and solve real-world problems.
-
-While working full time, I dedicate time to deepening my understanding of programming concepts.
-
-I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate development team.
+I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate engineering team.
 
 ---
 
