@@ -10,9 +10,10 @@
 
 I'm a motivated **Junior Full Stack Web Developer** with a background in IT support and a strong passion for building useful, well-crafted digital products.
 
-Earlier this year, I completed an **online coding bootcamp**, where I built web apps using modern technologies like **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**. During this time, I also collaborated on team projects and worked in shared codebases using Git and GitHub.
+I recently started an **internship at [Kubecraft](https://www.skool.com/kubecraft)**, where I'm gaining hands-on experience with **Kubernetes** and **Linux** in a collaborative environment.
 
-Before diving into development, I spent over **4 years in IT support**, where I learned how to troubleshoot under pressure, communicate clearly with non-technical users, and solve real-world problems.
+Earlier this year, I completed an **online coding bootcamp**, building web apps with technologies like **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.  
+Before diving into development, I spent over **4 years in IT support**, learning to troubleshoot under pressure, communicate clearly with non-technical users, and solve real-world problems.
 
 While working full time, I dedicate time to deepening my understanding of programming concepts.
 
@@ -50,6 +51,7 @@ I'm now looking for an **entry-level position** where I can contribute, learn, a
 
 #### 🐧 DevOps & Tools  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
@@ -61,7 +63,7 @@ Here are a few projects I’ve recently worked on:
 
 - 🌿 [**mydailyimpact**](https://github.com/tomislav-varga/WS24-MyDailyImpact) — Argument-tracking web app with a CO₂/water impact calculator powered by an Express.js backend and a MongoDB database.
 - 💼 [**Company Website Template**](https://github.com/tomislav-varga/bayern-express) — Fully responsive Next.js landing page for small businesses.  
-- 📘 [**Full Stack Open Exercises**](https://github.com/tomislav-varga/fullstackopen-exercises) — Solutions for the Full Stack Open course offered by the University of Helsinki covering React, Node.js, MongoDB, GraphQL, and TypeScript.
+- 📘 [**Full Stack Open Exercises**](https://github.com/tomislav-varga/fullstackopen-exercises) — Solutions for the Full Stack Open course offered by the University of Helsinki covering React, Node.js, and more.
 
 ---
 
@@ -79,7 +81,6 @@ Let’s chat if you're looking for a curious, committed developer who’s ready 
 ---
 
 <p align="center">Thanks for stopping by! 😊</p>
-
 
 <!--
 **tomislav-varga/tomislav-varga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
