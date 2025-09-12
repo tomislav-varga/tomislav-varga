@@ -55,7 +55,7 @@ I'm now looking for an **entry-level position** where I can contribute, learn, a
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
-
+<!--
 ### 💼 Projects  
 Here are a few projects I’ve recently worked on:
 
@@ -64,7 +64,7 @@ Here are a few projects I’ve recently worked on:
 - 📘 [**Full Stack Open Exercises**](https://github.com/tomislav-varga/fullstackopen-exercises) — Solutions for the Full Stack Open course offered by the University of Helsinki covering React, Node.js, and more.
 
 ---
-
+-->
 ### 📫 Let's Connect
 
 I'm actively looking for **junior dev roles**, **internships**, or **freelance gigs**.  
