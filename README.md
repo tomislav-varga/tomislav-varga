@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tomi 👋</h1>
 
 <p align="center">
-  👨‍💻 IT Support Specialist turned aspiring DevOps Engineer | Kubernetes & Cloud Enthusiast
+  👨‍💻 IT Support Specialist turned aspiring DevOps Engineer | Kubernetes & Cloud Enthusiast | IT support veteran
 </p>
 
 ---
@@ -13,9 +13,8 @@ I’m an aspiring **Junior DevOps Engineer** with a strong foundation in IT supp
 - 🎓 Earlier this year, I completed an **online coding bootcamp**, where I built web applications using **React, Node.js, MongoDB, and Tailwind CSS**.  
 - 🛠 I recently started an **internship at Kubecraft**, where I’m gaining hands-on experience with **Kubernetes, Linux, and cloud-native technologies** — all while continuing to work full-time in IT.  
 - 💼 With **3+ years in IT support**, I bring proven problem-solving skills, the ability to communicate clearly with both technical and non-technical users, and experience troubleshooting under pressure.  
-- 🚀 I’m now looking to transition into a **Junior DevOps role**, where I can contribute, learn, and grow as part of a passionate engineering team.  
 
-I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate engineering team.
+I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate software engineering team.
 
 ---
 
@@ -55,16 +54,18 @@ I'm now looking for an **entry-level position** where I can contribute, learn, a
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
-<!--
+
 ### 💼 Projects  
 Here are a few projects I’ve recently worked on:
-
-- 🌿 [**mydailyimpact**](https://github.com/tomislav-varga/WS24-MyDailyImpact) — Argument-tracking web app with a CO₂/water impact calculator powered by an Express.js backend and a MongoDB database.
+### Web Development
+- 🌿 [**mydailyimpact**](https://github.com/tomislav-varga/WS24-MyDailyImpact) — Final Project of the coding bootcamp: Argument-tracking web app with a CO₂/water impact calculator powered by an Express.js backend and a MongoDB database.
 - 💼 [**Company Website Template**](https://github.com/tomislav-varga/bayern-express) — Fully responsive Next.js landing page for small businesses.  
 - 📘 [**Full Stack Open Exercises**](https://github.com/tomislav-varga/fullstackopen-exercises) — Solutions for the Full Stack Open course offered by the University of Helsinki covering React, Node.js, and more.
+### DevOps
+- 🚪 [**NetVault**](https://github.com/tomislav-varga/depot/tree/main/netvault) - Kubernetes based SFTP server
 
 ---
--->
+
 ### 📫 Let's Connect
 
 I'm actively looking for **junior dev roles**, **internships**, or **freelance gigs**.  
