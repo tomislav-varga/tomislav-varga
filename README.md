@@ -68,7 +68,6 @@ Here are a few projects I’ve recently worked on:
 
 ### 📫 Let's Connect
 
-I'm actively looking for **junior dev roles**, **internships**, or **freelance gigs**.  
 Let’s chat if you're looking for a curious, committed developer who’s ready to contribute and grow.
 
 - 📅 [Book a Meeting](https://cal.com/tomislav.varga)
