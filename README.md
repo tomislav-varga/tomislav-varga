@@ -10,7 +10,7 @@
 
 I’m an aspiring **Junior DevOps Engineer** with a strong foundation in IT support and full-stack web development.  
 
-- 🎓 Earlier this year, I completed an **online coding bootcamp**, where I built web applications using **React, Node.js, MongoDB, and Tailwind CSS**.  
+- 🎓 Earlier this year, I completed an **online coding bootcamp**, where I built web applications using **React, Node.js, MongoDB and Express**.  
 - 🛠 I recently started an **internship at Kubecraft**, where I’m gaining hands-on experience with **Kubernetes, Linux, and cloud-native technologies** — all while continuing to work full-time in IT.  
 - 💼 With **3+ years in IT support**, I bring proven problem-solving skills, the ability to communicate clearly with both technical and non-technical users, and experience troubleshooting under pressure.  
 
