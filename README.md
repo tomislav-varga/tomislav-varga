@@ -8,11 +8,11 @@
 
 ## 💡 About Me  
 
-Hi! I work in IT support, where I help people solve everyday tech issues and keep their systems running smoothly.
+Hi! I work in IT support, where I help people solve everyday tech issues and keep their systems running smoothly.  
 
-🧑‍💻 In my free time, I love exploring programming and learning how things work behind the scenes.
-⚙️ I’m especially interested in Linux, automation, and DevOps tools — not as a career path, but because I genuinely enjoy tinkering and learning new technologies.
-💬 I also like to spend a lot of time in the terminal
+🧑‍💻 In my free time, I love exploring programming and learning how things work behind the scenes.  
+⚙️ I’m especially interested in Linux, automation, and DevOps tools — not as a career path, but because I genuinely enjoy tinkering and learning new technologies.  
+💬 I also like to spend a lot of time in the terminal.  
 
 ---
 
