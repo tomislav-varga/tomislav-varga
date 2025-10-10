@@ -1,20 +1,18 @@
 <h1 align="center">Hi there, I'm Tomi 👋</h1>
 
 <p align="center">
-  👨‍💻 IT Support Specialist turned aspiring DevOps Engineer | Kubernetes & Cloud Enthusiast | IT support veteran
+  👨‍💻 IT Support Specialist | Hobby Programmer
 </p>
 
 ---
 
 ## 💡 About Me  
 
-I’m an aspiring **Junior DevOps Engineer** with a strong foundation in IT support and full-stack web development.  
+Hi! I work in IT support, where I help people solve everyday tech issues and keep their systems running smoothly.
 
-- 🎓 Earlier this year, I completed an **online coding bootcamp**, where I built web applications using **React, Node.js, MongoDB and Express**.  
-- 🛠 I recently started an **internship at Kubecraft**, where I’m gaining hands-on experience with **Kubernetes, Linux, and cloud-native technologies** — all while continuing to work full-time in IT.  
-- 💼 With **3+ years in IT support**, I bring proven problem-solving skills, the ability to communicate clearly with both technical and non-technical users, and experience troubleshooting under pressure.  
-
-I'm now looking for an **entry-level position** where I can contribute, learn, and grow as part of a passionate software engineering team.
+🧑‍💻 In my free time, I love exploring programming and learning how things work behind the scenes.
+⚙️ I’m especially interested in Linux, automation, and DevOps tools — not as a career path, but because I genuinely enjoy tinkering and learning new technologies.
+💬 I also like to spend a lot of time in the terminal
 
 ---
 
