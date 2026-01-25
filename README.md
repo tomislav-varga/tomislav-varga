@@ -1,39 +1,48 @@
 <h1 align="center">Hi there, I'm Tomi 👋</h1>
 
 <p align="center">
-  👨‍💻 IT Support Specialist | Hobby Programmer
+  👨‍💻 Aspiring Linux System Engineer | DevOps Engineer | IT Support Specialist | Hobby Programmer
 </p>
 
 ---
 
 ## 💡 About Me  
 
-Hi! I work in IT support, where I help people solve everyday tech issues and keep their systems running smoothly.  
+I currently work in IT support, where I help people solve everyday technical issues and keep their systems running smoothly.
 
-🧑‍💻 In my free time, I love exploring programming and learning how things work behind the scenes.  
-⚙️ I’m especially interested in Linux, automation, and DevOps tools — not as a career path, but because I genuinely enjoy tinkering and learning new technologies.  
-💬 I also like to spend a lot of time in the terminal.  
+Over the last couple of months, I’ve been spending my free time learning Linux-related tools and technologies such as Docker, Kubernetes, and Ansible. I enjoy understanding how systems work under the hood and how automation can make them more reliable and efficient.
 
+My goal is to transition from my current role into a position in **DevOps** or **Linux system administration**, where I can work closer to infrastructure, automation, and cloud-native systems.
 
-<!--
-- 🧠 [Portfolio Website](https://yourportfolio.com)
--->
+---
+
+## 🛠️ Projects  
+
+- ☸️ [**Actual Budget Kubernetes Deployment**](https://github.com/tomislav-varga/actual-budget-kubernetes)  
+  Built a Kubernetes-based deployment for the Actual Budget personal finance application, focusing on running it securely in a private environment and automating operations.
+
+  - Deployed the application using Kubernetes resources such as Deployments, Services, and CronJobs  
+  - Configured a secure network boundary using Tailscale for private access  
+  - Implemented automated backups to remote storage (e.g., AWS S3) using Kubernetes CronJobs  
+  - Used Helm to package and manage the application deployment
+ 
+- 🧠 [**SadServers Operational Scenarios**](https://github.com/tomislav-varga/SadServers)
+  Worked through hands-on Linux and DevOps scenarios designed to simulate real operational tasks and system failures.
+  
+  - Resolved broken systems and services
+  - Executed targeted administrative and automation tasks
+  - Investigated and modified systems under constrained conditions
+  - Practiced systematic diagnosis across services, containers, networking, and file systems
+
+- 🤝 [**Team Project: Backend & Infrastructure for RAG Pipeline**](https://github.com/TechLabs-Remote-Bootcamp/WS24-MyDailyImpact)
+Worked in a cross-functional team (Web, Data Science, Deep Learning).
+Contributed to backend development and handled infrastructure tasks.
+  - Set up and maintained a Linux server
+  - Deployed a Dockerized **Qdrant** vector database
+  - Supported a **RAG pipeline** used by the Deep Learning track
+
+<!-- project list goes here -->
 
 ---
 
 <p align="center">Thanks for stopping by! 😊</p>
-
-<!--
-**tomislav-varga/tomislav-varga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
