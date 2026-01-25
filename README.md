@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Tomi 👋</h1>
 
-<p align="center">
-  👨‍💻 Aspiring Linux System Engineer | DevOps Engineer | IT Support Specialist | Hobby Programmer
-</p>
-
 ---
 
 ## 💡 About Me  
