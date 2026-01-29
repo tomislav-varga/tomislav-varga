@@ -34,8 +34,8 @@ My goal is to transition from my current role into a position in **DevOps** or *
 Worked in a cross-functional team (Web, Data Science, Deep Learning).
 Contributed to backend development and handled infrastructure tasks.
   - Set up and maintained a Linux server
-  - Deployed a Dockerized **Qdrant** vector database
-  - Supported a **RAG pipeline** used by the Deep Learning track
+  - Deployed a Dockerized Qdrant vector database
+  - Supported a RAG pipeline used by the Deep Learning track
 
 <!-- project list goes here -->
 
