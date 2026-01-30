@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Tomi 👋</h1>
 
----
-
 ## 💡 About Me  
 
 I currently work in IT support, where I help people solve everyday technical issues and keep their systems running smoothly.
@@ -9,8 +7,6 @@ I currently work in IT support, where I help people solve everyday technical iss
 Over the last couple of months, I’ve been spending my free time learning Linux-related tools and technologies such as Docker, Kubernetes, and Ansible. I enjoy understanding how systems work under the hood and how automation can make them more reliable and efficient.
 
 My goal is to transition from my current role into a position in **DevOps** or **Linux system administration**, where I can work closer to infrastructure, automation, and cloud-native systems.
-
----
 
 ## 🛠️ Projects  
 
