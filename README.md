@@ -18,7 +18,7 @@ My goal is to transition into a position in **DevOps**, **SRE**, and **backend d
   - Built a resilient edge service with retries, validation, and systemd hardening  
   - Deployed infrastructure via **GitOps (FluxCD) on Kubernetes**  
   - Implemented **observability stack (Prometheus + Grafana)** with dashboards and alerting  
-  - Secured private connectivity using **Tailscale** and managed secrets with Sealed Secrets  
+  - Secured private connectivity using **Tailscale** and managed secrets with **Sealed Secrets**  
 
 - ☸️ [**Actual Budget Kubernetes Deployment**](https://github.com/tomislav-varga/actual-budget-kubernetes)  
   Built and operated a production-style Kubernetes deployment for a self-hosted finance application.
