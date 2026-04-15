@@ -41,7 +41,3 @@ My goal is to transition into a position in **DevOps**, **SRE**, and **backend d
   - Set up and maintained a Linux server environment  
   - Deployed and operated a **Dockerized Qdrant vector database**  
   - Supported infrastructure for a **RAG pipeline** used in ML workflows  
-
----
-
-<p align="center">Thanks for stopping by! 😊</p>
