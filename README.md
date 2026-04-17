@@ -4,9 +4,15 @@
 
 I currently work in IT support, where I help people solve everyday technical issues and ensure reliable day-to-day operations.
 
-Alongside my role, I have built hands-on experience in **backend development** and **DevOps practices**, working with technologies such as Linux, Docker, Kubernetes, and cloud-native tooling. I focus on building and operating systems end-to-end — from backend services to infrastructure and observability.
+Alongside my role, I have built hands-on experience in **Linux system administration** and **DevOps practices**, working with technologies such as Linux, Docker, Kubernetes, and cloud-native tooling.
 
-My goal is to transition into a position in **DevOps**, **SRE**, and **backend development**, where I can build and operate reliable systems, automate infrastructure, and work deeply with cloud-native technologies.
+My goal is to transition into a position in **DevOps**, **SRE**, and **Linux system engineering**, where I can build and operate reliable systems, automate infrastructure, and work deeply with cloud-native technologies.
+
+## 🚧 Currently Learning
+
+- Deepening Kubernetes networking and CNI concepts  
+- Improving observability and alerting strategies  
+- Exploring SRE practices (SLIs, SLOs, incident response)  
 
 ## 🛠️ Projects  
 
@@ -40,4 +46,10 @@ My goal is to transition into a position in **DevOps**, **SRE**, and **backend d
 
   - Set up and maintained a Linux server environment  
   - Deployed and operated a **Dockerized Qdrant vector database**  
-  - Supported infrastructure for a **RAG pipeline** used in ML workflows  
+  - Supported infrastructure for a **RAG pipeline** used in ML workflows
+
+## ⚙️ Tech Stack
+
+Linux • Docker • Kubernetes • FastAPI • PostgreSQL  
+Prometheus • Grafana • FluxCD • Helm • Tailscale  
+AWS • GitOps • Systemd • Python
