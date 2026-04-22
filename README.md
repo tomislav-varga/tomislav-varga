@@ -8,12 +8,6 @@ Alongside my role, I have built hands-on experience in **Linux system administra
 
 My goal is to transition into a position in **DevOps**, **SRE**, and **Linux system engineering**, where I can build and operate reliable systems, automate infrastructure, and work deeply with cloud-native technologies.
 
-## 🚧 Currently Learning
-
-- Deepening Kubernetes networking and CNI concepts  
-- Improving observability and alerting strategies  
-- Exploring SRE practices (SLIs, SLOs, incident response)  
-
 ## 🛠️ Projects  
 
 - 🌡️ [**Cloud Telemetry Platform**](https://github.com/tomislav-varga/cloud-telemetry-platform)
