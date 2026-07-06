@@ -46,4 +46,4 @@ My goal is to transition into a position in **DevOps**, **SRE**, and **Linux sys
 
 Linux • Docker • Kubernetes • FastAPI • PostgreSQL  
 Prometheus • Grafana • FluxCD • Helm • Tailscale  
-AWS • GitOps • Systemd • Python
+AWS • GitOps • Systemd • Python • Bash
