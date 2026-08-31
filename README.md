@@ -2,11 +2,11 @@
 
 ## 💡 About Me  
 
-I currently work in IT support, where I help people solve everyday technical issues and ensure reliable day-to-day operations.
+I transitioned from Windows IT support to DevOps engineering. I started working for a company that offers a managed Kubernetes service, where I help operate and maintain Kubernetes clusters and deliver managed container infrastructure to customers.
 
 Alongside my role, I have built hands-on experience in **Linux system administration** and **DevOps practices**, working with technologies such as Linux, Docker, Kubernetes, and cloud-native tooling.
 
-My goal is to transition into a position in **DevOps**, **SRE**, and **Linux system engineering**, where I can build and operate reliable systems, automate infrastructure, and work deeply with cloud-native technologies.
+My goal is to continue growing my career in **DevOps**, **SRE**, and **Linux system engineering**, where I can build and operate reliable systems, automate infrastructure, and work deeply with cloud-native platforms.
 
 ## 🛠️ Projects  
 
