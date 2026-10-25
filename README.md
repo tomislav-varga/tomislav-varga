@@ -6,8 +6,3 @@ I transitioned from Windows IT support to DevOps engineering. I started working 
 
 My goal is to continue growing my career in **DevOps**, **SRE**, and **Linux system engineering**, where I can build and operate reliable systems, automate infrastructure, and work deeply with cloud-native platforms.
 
-## ⚙️ Tech Stack
-
-Linux • Docker • Kubernetes • FastAPI  
-Prometheus • Grafana • FluxCD • Helm • Tailscale  
-AWS • GitOps • Systemd • Python • Bash
